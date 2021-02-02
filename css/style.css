@@ -4,17 +4,26 @@
   padding: 15px;
 }
 .left,
+.middle,
 .right{
   text-align: center;
-  margin-top: 20px;
+  margin-top: 30px;
   padding: 30px;
   font-size: 20px;
 }
 .left img,
+.middle img,
 .right img{
   height: 200px;
 }
 .left h3,
+.middle h3,
 .right h3{
   margin: 15px 0;
+}
+.title-2{
+  text-align: center;
+  font-size: 30px;
+  padding: 15px;
+  margin-top: 30px;
 }
