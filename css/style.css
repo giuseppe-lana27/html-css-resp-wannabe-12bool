@@ -19,11 +19,17 @@
 .left h3,
 .middle h3,
 .right h3{
-  margin: 15px 0;
+  margin: 20px 0;
 }
-.title-2{
+.title-2,
+.title-3{
   text-align: center;
   font-size: 30px;
   padding: 15px;
   margin-top: 30px;
+}
+.blue-img{
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 10px;
 }
