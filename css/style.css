@@ -1,7 +1,6 @@
 body{
   font-family: 'Yusei Magic', sans-serif;
 }
-
 .title{
   text-align: center;
   font-size: 30px;
@@ -41,6 +40,16 @@ body{
 @media screen and (max-width: 767px){
   body{
     background-color: #FF6F61;
+  }
+  .title,
+  .title-2,
+  .title-3{
+    color: white;
+  }
+  .left,
+  .middle,
+  .right{
+    font-size: 17px;
     color: white;
   }
   .borded{
@@ -50,6 +59,17 @@ body{
 @media screen and (min-width: 768px) and (max-width: 992px){
   body{
     background-color: #88B04B;
+    color: white;
+  }
+  .title
+  .title-2,
+  .title-3{
+    color: white;
+  }
+  .left,
+  .middle,
+  .right{
+    font-size: 17px;
     color: white;
   }
 }
